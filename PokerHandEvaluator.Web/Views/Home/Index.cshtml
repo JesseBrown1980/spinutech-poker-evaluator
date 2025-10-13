@@ -1,0 +1,29 @@
+﻿@model PokerHandEvaluator.Web.Models.PokerViewModel
+@{
+    ViewData["Title"] = "Poker Hand Evaluator";
+}
+
+<div class="container py-4">
+    <h1>Poker Hand Evaluator</h1>
+    <p class="text-muted">Enter 5 cards (e.g. Ah As 10c 7d 6s)</p>
+
+    <form asp-action="Index" method="post" class="row gy-2 gx-3 align-items-end">
+        <div class="col-auto">
+            <label asp-for="Hand" class="form-label"></label>
+            <input asp-for="Hand" class="form-control" placeholder="Ah As 10c 7d 6s" />
+            <span asp-validation-for="Hand" class="text-danger"></span>
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-primary">Evaluate</button>
+        </div>
+    </form>
+
+    @if (!string.IsNullOrWhiteSpace(Model.Result))
+    {
+        <div class="alert alert-success mt-4"><strong>Result:</strong> @Model.Result</div>
+    }
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,11 @@
+C:\Users\PC User\source\repos\PokerHandEvaluator\PokerHandEvaluator.Core\bin\Debug\net8.0\PokerHandEvaluator.Core.deps.json
+C:\Users\PC User\source\repos\PokerHandEvaluator\PokerHandEvaluator.Core\bin\Debug\net8.0\PokerHandEvaluator.Core.dll
+C:\Users\PC User\source\repos\PokerHandEvaluator\PokerHandEvaluator.Core\bin\Debug\net8.0\PokerHandEvaluator.Core.pdb
+C:\Users\PC User\source\repos\PokerHandEvaluator\PokerHandEvaluator.Core\obj\Debug\net8.0\PokerHandEvaluator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC User\source\repos\PokerHandEvaluator\PokerHandEvaluator.Core\obj\Debug\net8.0\PokerHandEvaluator.Core.AssemblyInfoInputs.cache
+C:\Users\PC User\source\repos\PokerHandEvaluator\PokerHandEvaluator.Core\obj\Debug\net8.0\PokerHandEvaluator.Core.AssemblyInfo.cs
+C:\Users\PC User\source\repos\PokerHandEvaluator\PokerHandEvaluator.Core\obj\Debug\net8.0\PokerHandEvaluator.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC User\source\repos\PokerHandEvaluator\PokerHandEvaluator.Core\obj\Debug\net8.0\PokerHandEvaluator.Core.dll
+C:\Users\PC User\source\repos\PokerHandEvaluator\PokerHandEvaluator.Core\obj\Debug\net8.0\refint\PokerHandEvaluator.Core.dll
+C:\Users\PC User\source\repos\PokerHandEvaluator\PokerHandEvaluator.Core\obj\Debug\net8.0\PokerHandEvaluator.Core.pdb
+C:\Users\PC User\source\repos\PokerHandEvaluator\PokerHandEvaluator.Core\obj\Debug\net8.0\ref\PokerHandEvaluator.Core.dll

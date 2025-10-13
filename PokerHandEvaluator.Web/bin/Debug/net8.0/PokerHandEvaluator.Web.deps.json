@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PokerHandEvaluator.Web/1.0.0": {
+        "dependencies": {
+          "PokerHandEvaluator.Core": "1.0.0"
+        },
+        "runtime": {
+          "PokerHandEvaluator.Web.dll": {}
+        }
+      },
+      "PokerHandEvaluator.Core/1.0.0": {
+        "runtime": {
+          "PokerHandEvaluator.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PokerHandEvaluator.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PokerHandEvaluator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
